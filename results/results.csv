@@ -1,0 +1,9 @@
+project,threads,time
+pbwt,1,5.11
+p_pbwt,1,0.36
+pbwt,2,4.38
+p_pbwt,2,0.29
+pbwt,4,4.41
+p_pbwt,4,0.31
+pbwt,8,4.54
+p_pbwt,8,0.39

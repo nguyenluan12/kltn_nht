@@ -1,0 +1,9 @@
+algorithm,threads,data_size,runtime_seconds
+pbwt,1,5x7,0.000010
+p_pbwt,2,5x7,0.000155
+p_pbwt,3,5x7,0.000085
+p_pbwt,4,5x7,0.000090
+p_pbwt,5,5x7,0.000096
+p_pbwt,6,5x7,0.000120
+p_pbwt,7,5x7,0.000126
+p_pbwt,8,5x7,0.000171

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "obblJDKfq7w=",
+  "success": true,
+  "projectFilePath": "/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/HP-PBWT.csproj",
+  "expectedPackageFiles": [
+    "/Users/NguyenLuan/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/NguyenLuan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/NguyenLuan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.15/microsoft.netcore.app.host.osx-arm64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

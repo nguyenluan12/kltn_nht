@@ -1,0 +1,14 @@
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/bin/Debug/net8.0/HP-PBWT
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/bin/Debug/net8.0/HP-PBWT.deps.json
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/bin/Debug/net8.0/HP-PBWT.runtimeconfig.json
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/bin/Debug/net8.0/HP-PBWT.dll
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/bin/Debug/net8.0/HP-PBWT.pdb
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/HP-PBWT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/HP-PBWT.AssemblyInfoInputs.cache
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/HP-PBWT.AssemblyInfo.cs
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/HP-PBWT.csproj.CoreCompileInputs.cache
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/HP-PBWT.dll
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/refint/HP-PBWT.dll
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/HP-PBWT.pdb
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/HP-PBWT.genruntimeconfig.cache
+/Users/NguyenLuan/pbwt-comparison/hp-pbwt/source_IO_Excluded/obj/Debug/net8.0/ref/HP-PBWT.dll
